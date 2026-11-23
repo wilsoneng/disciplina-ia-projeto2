@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.pyc
+*_smoke.ipynb
+*_modoFalse.ipynb
+smoke_out.ipynb
+resultados_smoke/
+figuras_smoke/
